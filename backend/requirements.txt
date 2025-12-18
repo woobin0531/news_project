@@ -1,0 +1,20 @@
+# Web framework
+fastapi
+uvicorn[standard]
+
+# Environment
+python-dotenv
+
+# HTTP & HTML parsing
+requests
+beautifulsoup4
+
+# Naver & OpenAI client
+openai
+
+# LangChain LLM
+langchain-openai
+langchain-core
+
+# File uploads in FastAPI
+python-multipart

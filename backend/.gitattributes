@@ -1,0 +1,1 @@
+models/faster-whisper-base/model.bin filter=lfs diff=lfs merge=lfs -text
