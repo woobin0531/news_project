@@ -30,7 +30,7 @@
 - **News Crawler**: Naver News API, BeautifulSoup, 언론사별 구조 대응 파싱
 - **통합 백엔드**: FastAPI (Python), 데이터 핸들러
 - **프론트엔드**: React, HTML, JavaScript, CSS 기반
-- **전체 통합 테스트 90% 이상 성공[1]**
+- **전체 통합 테스트 90% 이상 성공**
 
 </details>
 
@@ -52,7 +52,7 @@
 - `/src/`: 주요 HTML/React 컴포넌트
 - `/static/js/`, `/static/css/`: JS, CSS 리소스
 - `/data/`: 샘플 뉴스 데이터 또는 크롤링 결과
-- `/backend/server.py` 등: 크롤러·STT·LLM 통신 파이썬 코드
+- `/backend/server.py`: 크롤러·STT·LLM 통신 파이썬 코드
 - README 및 문서화 파일
 
 </details>
